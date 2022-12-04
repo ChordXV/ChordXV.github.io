@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: Based Mathematics
 
 # Name of the author
-author: Amit Merchant
+author: Arpit Mittal
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Mathematics book notes, exercise solutions, and expository papers
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,7 +21,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: arpit.mittal.2.71@gmail.com
   facebook:
   flickr:
   github: amitmerchant1990/reverie
